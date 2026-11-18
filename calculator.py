@@ -1,7 +1,7 @@
 """Smart Calculator - UCS745 Lab Assignment Q1"""
 
 def welcome_message():
-    return "Welcome to Smart Calculator"
+    return "Hello! Welcome to Smart Calculator v2.0"
 
 def add(a, b): return a + b
 def subtract(a, b): return a - b
